@@ -1,0 +1,48 @@
+C:\Users\artem\Documents\Курсач 2 курс ооп\Kursachik\Kursachik\bin\Release\Kursachik.exe
+C:\Users\artem\Documents\Курсач 2 курс ооп\Kursachik\Kursachik\bin\Release\Kursachik.pdb
+C:\Users\artem\Documents\Курсач 2 курс ооп\Kursachik\Kursachik\obj\Release\Kursachik.csprojAssemblyReference.cache
+C:\Users\artem\Documents\Курсач 2 курс ооп\Kursachik\Kursachik\obj\Release\Kursachik.Form1.resources
+C:\Users\artem\Documents\Курсач 2 курс ооп\Kursachik\Kursachik\obj\Release\Kursachik.Load.resources
+C:\Users\artem\Documents\Курсач 2 курс ооп\Kursachik\Kursachik\obj\Release\Kursachik.Properties.Resources.resources
+C:\Users\artem\Documents\Курсач 2 курс ооп\Kursachik\Kursachik\obj\Release\Kursachik.Sale.resources
+C:\Users\artem\Documents\Курсач 2 курс ооп\Kursachik\Kursachik\obj\Release\Kursachik.csproj.GenerateResource.cache
+C:\Users\artem\Documents\Курсач 2 курс ооп\Kursachik\Kursachik\obj\Release\Kursachik.csproj.CoreCompileInputs.cache
+C:\Users\artem\Documents\Курсач 2 курс ооп\Kursachik\Kursachik\obj\Release\Kursachik.exe
+C:\Users\artem\Documents\Курсач 2 курс ооп\Kursachik\Kursachik\obj\Release\Kursachik.pdb
+D:\курсовая ооп\Kursachik\Kursachik\bin\Release\Kursachik.exe
+D:\курсовая ооп\Kursachik\Kursachik\bin\Release\Kursachik.pdb
+D:\курсовая ооп\Kursachik\Kursachik\obj\Release\Kursachik.csprojAssemblyReference.cache
+D:\курсовая ооп\Kursachik\Kursachik\obj\Release\Kursachik.Form1.resources
+D:\курсовая ооп\Kursachik\Kursachik\obj\Release\Kursachik.Load.resources
+D:\курсовая ооп\Kursachik\Kursachik\obj\Release\Kursachik.Properties.Resources.resources
+D:\курсовая ооп\Kursachik\Kursachik\obj\Release\Kursachik.Sale.resources
+D:\курсовая ооп\Kursachik\Kursachik\obj\Release\Kursachik.csproj.GenerateResource.cache
+D:\курсовая ооп\Kursachik\Kursachik\obj\Release\Kursachik.csproj.CoreCompileInputs.cache
+D:\курсовая ооп\Kursachik\Kursachik\obj\Release\Kursachik.exe
+D:\курсовая ооп\Kursachik\Kursachik\obj\Release\Kursachik.pdb
+C:\Users\User\Desktop\Kursachik\Kursachik\obj\Release\Kursachik.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Kursachik\Kursachik\obj\Release\Kursachik.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Kursachik\Kursachik\obj\Release\Kursachik.Form1.resources
+C:\Users\User\Desktop\Kursachik\Kursachik\obj\Release\Kursachik.Load.resources
+C:\Users\User\Desktop\Kursachik\Kursachik\obj\Release\Kursachik.Properties.Resources.resources
+C:\Users\User\Desktop\Kursachik\Kursachik\obj\Release\Kursachik.Sale.resources
+C:\Users\User\Desktop\Kursachik\Kursachik\obj\Release\Kursachik.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Kursachik\Kursachik\obj\Release\Kursachik.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kursachik\Kursachik\obj\Release\Kursachik.exe
+C:\Users\User\Desktop\Kursachik\Kursachik\obj\Release\Kursachik.pdb
+C:\Users\User\Desktop\Kursachik\Kursachik\bin\Release\Kursachik.exe.config
+C:\Users\User\Desktop\Kursachik\Kursachik\bin\Release\Kursachik.exe
+C:\Users\User\Desktop\Kursachik\Kursachik\bin\Release\Kursachik.pdb
+C:\Учёба\Практика\Kursachik\Kursachik\bin\Release\Kursachik.exe.config
+C:\Учёба\Практика\Kursachik\Kursachik\bin\Release\Kursachik.exe
+C:\Учёба\Практика\Kursachik\Kursachik\bin\Release\Kursachik.pdb
+C:\Учёба\Практика\Kursachik\Kursachik\obj\Release\Kursachik.csproj.AssemblyReference.cache
+C:\Учёба\Практика\Kursachik\Kursachik\obj\Release\Kursachik.csproj.SuggestedBindingRedirects.cache
+C:\Учёба\Практика\Kursachik\Kursachik\obj\Release\Kursachik.Form1.resources
+C:\Учёба\Практика\Kursachik\Kursachik\obj\Release\Kursachik.Load.resources
+C:\Учёба\Практика\Kursachik\Kursachik\obj\Release\Kursachik.Properties.Resources.resources
+C:\Учёба\Практика\Kursachik\Kursachik\obj\Release\Kursachik.Sale.resources
+C:\Учёба\Практика\Kursachik\Kursachik\obj\Release\Kursachik.csproj.GenerateResource.cache
+C:\Учёба\Практика\Kursachik\Kursachik\obj\Release\Kursachik.csproj.CoreCompileInputs.cache
+C:\Учёба\Практика\Kursachik\Kursachik\obj\Release\Kursachik.exe
+C:\Учёба\Практика\Kursachik\Kursachik\obj\Release\Kursachik.pdb
